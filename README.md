@@ -1,4 +1,4 @@
-# Text Summarizer [TextUtils](https://aayush2211.github.io/TextUtils-React/)
+# Text Summarizer :- Check it Out! ---> [TextUtils](https://aayush2211.github.io/TextUtils-React/)
 Analyze your text with the following features :-
 1) Convert To UpperCase
 2) Convert To LowerCase
