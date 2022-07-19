@@ -6,6 +6,7 @@ Analyze your text with the following features :-
 4) Text to Voice
 5) Remove Extra Spaces(if any)
 6) Count the number of words and the time that one will take to read the whole text.
+7) Darkmode also available.
 
 
 # Getting Started with Create React App
