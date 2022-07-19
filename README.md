@@ -1,3 +1,13 @@
+# Text Summarizer [TextUtils](https://aayush2211.github.io/TextUtils-React/)
+Analyze your text with the following features :-
+1) Convert To UpperCase
+2) Convert To LowerCase
+3) Copy to Clipboard
+4) Text to Voice
+5) Remove Extra Spaces(if any)
+6) Count the number of words and the time that one will take to read the whole text.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
